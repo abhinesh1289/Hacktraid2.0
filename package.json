@@ -1,0 +1,12 @@
+{
+  "name": "medsimplify",
+  "version": "1.0.0",
+  "description": "AI Medical Report Simplifier",
+  "main": "api/analyze.js",
+  "scripts": {
+    "start": "node api/analyze.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
